@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|c:\\users\\yura\\desktop\\task2\\task2\\helpers\\basicauthenticationhandler.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|solutionrelative:helpers\\basicauthenticationhandler.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|c:\\users\\yura\\desktop\\task2\\task2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|c:\\users\\yura\\desktop\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|c:\\users\\yura\\desktop\\task2\\task2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|c:\\users\\yura\\desktop\\task2\\task2\\task2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|solutionrelative:task2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|c:\\users\\yura\\desktop\\task2\\task2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|c:\\users\\yura\\desktop\\task2\\task2\\services\\iproductservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|solutionrelative:services\\iproductservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|c:\\users\\yura\\desktop\\task2\\task2\\services\\productservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|solutionrelative:services\\productservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|c:\\users\\yura\\desktop\\task2\\task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9552885-6653-40CB-A9ED-C4253E07AC9A}|Task2.csproj|solutionrelative:task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T09:00:58.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task2",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Task2.csproj",
+              "RelativeDocumentMoniker": "Task2.csproj",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Task2.csproj",
+              "RelativeToolTip": "Task2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T09:00:48.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicAuthenticationHandler.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Helpers\\BasicAuthenticationHandler.cs.cs",
+              "RelativeDocumentMoniker": "Helpers\\BasicAuthenticationHandler.cs.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Helpers\\BasicAuthenticationHandler.cs.cs",
+              "RelativeToolTip": "Helpers\\BasicAuthenticationHandler.cs.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:08:31.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwEYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:55:07.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Services\\IProductService.cs.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Services\\IProductService.cs.cs",
+              "RelativeToolTip": "Services\\IProductService.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:47:28.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:45:18.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:31:32.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Services\\ProductService.cs.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Services\\ProductService.cs.cs",
+              "RelativeToolTip": "Services\\ProductService.cs.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:49:53.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task2.csproj",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Task2.csproj",
+              "RelativeDocumentMoniker": "Task2.csproj",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\Task2\\Task2\\Task2.csproj",
+              "RelativeToolTip": "Task2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T00:45:12.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
